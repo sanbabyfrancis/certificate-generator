@@ -18,8 +18,10 @@
 <!-- ABOUT THE PROJECT -->
 ## _certificate-generator?_
 
-- _`certificate-generator` is a simple python script that can produce multiple certificates from a certificate template._
+- _`certificate-generator` is a simple python script that can produce multiple certificates from a certificate template in PDF._
 - _It can be used to automate the process of generating hundreds of certificates for that huge seminar you've organised._
+- _The names of the participants are read from the spreadsheet provided by the user._
+- _The font style, size and position of the text to be printed on the certificate is also provided by the user._
 
 ![img](https://user-images.githubusercontent.com/73488722/158161078-a458e14b-7330-4079-aab2-3752b5ec77d0.png)
 
@@ -51,8 +53,15 @@ _Python modules to be installed:_
 - _Copy the excel file that contains the name of the participants into the directory._
 - _Copy a font file (in .ttf format) into the directory. The name will be printed using this font._
 - _Run the python script: `python3 certificate-generator.py`_
-- _Provide the necessary inputs to the program. Pixel dimension specifies the location where the name has to be printed on the certificate._
+- _Provide the necessary inputs to the program. Pixel dimension specifies the position where the name has to be printed on the certificate._
 - _The certificates will be generated inside the `certificates` directory._
+
+<!-- SCREENSHOT -->
+## _Example Certificate_
+
+_template.pdf_ | _example.pdf_
+--- | ---
+![template](https://user-images.githubusercontent.com/73488722/158216104-5a3a1650-82a4-466b-8620-d561865413d9.png) | ![DONELL BASSETT](https://user-images.githubusercontent.com/73488722/158215512-1baa208e-003c-4395-a004-61a3cee865c1.png)
 
 
 <!-- CONTACT -->
