@@ -7,7 +7,7 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-print("\ncertificate_generator_v1.0")
+print("\ncertificate-generator-v1.0")
 print("@sanbabyfrancis")
 print("--------------------------\n")
 print("This simple utility will produce multiple certificates from a given certificate template.")
@@ -58,7 +58,7 @@ for i in names:
     page = existing_pdf.getPage(0)
     page.mergePage(new_pdf.getPage(0))
     output.addPage(page)
-    destination = "certificates/" + i + ".pdf"
+    destination = "certificates" + os.sep + i + ".pdf"
     outputStream = open(destination, "wb")
     output.write(outputStream)
     outputStream.close()
