@@ -49,7 +49,7 @@ _Python modules to be installed:_
 
 - _Move into the directory containing the python script: `cd certificate-generator`_
 - _Copy the template of the certificate (in .pdf format) into the directory._
-- _Copy the excel file that contains the name of the participants into the directory._
+- _Copy the spreadsheet that contains the name of the participants into the directory._
 - _Copy a font file (in .ttf format) into the directory. The name will be printed using this font._
 - _Run the python script: `python3 certificate-generator.py`_
 - _Provide the necessary inputs to the program. Pixel dimension specifies the position where the name has to be printed on the certificate._
