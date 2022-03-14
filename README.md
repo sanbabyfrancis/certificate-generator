@@ -18,12 +18,11 @@
 <!-- ABOUT THE PROJECT -->
 ## _certificate-generator?_
 
-- _`certificate-generator` is a simple python script that can produce multiple certificates from a certificate template in PDF._
-- _It can be used to automate the process of generating hundreds of certificates for that huge seminar you've organised._
-- _The names of the participants are read from the spreadsheet provided by the user._
+- _Many bulk certificate generators use jpeg or other image formats to create certificates which often results in poor quality of the certificates._
+- _This project aims to produce certificates that are lossless and are of high quality by using PDF format._
+- _`certificate-generator.py` is a simple python script that can produce multiple certificates from a given template (in PDF)._
+- _The name of the participants are provided by the user in the form of a spreadsheet._
 - _The font style, size and position of the text to be printed on the certificate is also provided by the user._
-
-![img](https://user-images.githubusercontent.com/73488722/158161078-a458e14b-7330-4079-aab2-3752b5ec77d0.png)
 
 
 <!-- GETTING STARTED -->
