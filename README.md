@@ -58,8 +58,7 @@ _Python modules to be installed:_
 <!-- SCREENSHOTS -->
 ## _Screenshots_
 
-<img width="920" alt="sanbabyfrancis@LenovoV15IILa621f792___certificate generator" src="https://user-images.githubusercontent.com/73488722/158308954-7dc38e5c-69b1-426f-a921-28e879b62934.png">
-
+<img width="920" alt="sanbabyfrancis@Lenovo___certificate generator" src="https://user-images.githubusercontent.com/73488722/158309806-4b866ad7-1d6e-4770-aeb0-3632889b182d.png">
 
 _template.pdf_ | _example.pdf_
 --- | ---
