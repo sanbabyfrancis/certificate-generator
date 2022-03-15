@@ -58,10 +58,10 @@ _Python modules to be installed:_
 <!-- SCREENSHOTS -->
 ## _Screenshots_
 
-![img](https://user-images.githubusercontent.com/73488722/158307104-8eb2ba59-86f7-4afd-b068-fedea34dbe64.png)
+<img width="920" alt="sanbabyfrancis@LenovoV15IILa621f792___certificate generator" src="https://user-images.githubusercontent.com/73488722/158308954-7dc38e5c-69b1-426f-a921-28e879b62934.png">
 
 
-_template.pdf_ | _DONELL BASSETT.pdf_
+_template.pdf_ | _example.pdf_
 --- | ---
 ![template](https://user-images.githubusercontent.com/73488722/158216104-5a3a1650-82a4-466b-8620-d561865413d9.png) | ![DONELL BASSETT](https://user-images.githubusercontent.com/73488722/158215512-1baa208e-003c-4395-a004-61a3cee865c1.png)
 
