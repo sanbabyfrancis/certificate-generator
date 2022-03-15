@@ -76,6 +76,7 @@ _san.baby.francis123@gmail.com_
 ## _Acknowledgments_
 
 * _[Add text to existing pdf using python](https://stackoverflow.com/questions/1180115/add-text-to-existing-pdf-using-python)_
+* _[mursalfk/Certificate-Generator](https://github.com/mursalfk/Certificate-Generator)_
 * _[bhargav-joshi/Bulk-Certificates-Generator](https://github.com/bhargav-joshi/Bulk-Certificates-Generator)_
 
 
