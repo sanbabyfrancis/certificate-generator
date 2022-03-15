@@ -55,10 +55,13 @@ _Python modules to be installed:_
 - _Provide the necessary inputs to the program. Pixel dimension specifies the position where the name has to be printed on the certificate._
 - _The certificates will be generated inside the `certificates` directory._
 
-<!-- SCREENSHOT -->
-## _Example Certificate_
+<!-- SCREENSHOTS -->
+## _Screenshots_
 
-_template.pdf_ | _example.pdf_
+![img](https://user-images.githubusercontent.com/73488722/158307104-8eb2ba59-86f7-4afd-b068-fedea34dbe64.png)
+
+
+_template.pdf_ | _DONELL BASSETT.pdf_
 --- | ---
 ![template](https://user-images.githubusercontent.com/73488722/158216104-5a3a1650-82a4-466b-8620-d561865413d9.png) | ![DONELL BASSETT](https://user-images.githubusercontent.com/73488722/158215512-1baa208e-003c-4395-a004-61a3cee865c1.png)
 
